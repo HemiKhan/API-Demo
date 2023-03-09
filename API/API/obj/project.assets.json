@@ -2463,11 +2463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programing\\CFL ERP\\Demo\\API\\API\\API.csproj",
+      "projectUniqueName": "E:\\Programing\\MyProjects\\API-Demo\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\Programing\\CFL ERP\\Demo\\API\\API\\API.csproj",
+      "projectPath": "E:\\Programing\\MyProjects\\API-Demo\\API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Muhammad Hammas Khan\\.nuget\\packages\\",
-      "outputPath": "E:\\Programing\\CFL ERP\\Demo\\API\\API\\obj\\",
+      "outputPath": "E:\\Programing\\MyProjects\\API-Demo\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2488,11 +2488,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Programing\\CFL ERP\\Demo\\Models\\Models\\Models.csproj": {
-              "projectPath": "E:\\Programing\\CFL ERP\\Demo\\Models\\Models\\Models.csproj"
+            "E:\\Programing\\MyProjects\\API-Demo\\Models\\Models\\Models.csproj": {
+              "projectPath": "E:\\Programing\\MyProjects\\API-Demo\\Models\\Models\\Models.csproj"
             },
-            "E:\\Programing\\CFL ERP\\Demo\\Services\\Services\\Services.csproj": {
-              "projectPath": "E:\\Programing\\CFL ERP\\Demo\\Services\\Services\\Services.csproj"
+            "E:\\Programing\\MyProjects\\API-Demo\\Services\\Services\\Services.csproj": {
+              "projectPath": "E:\\Programing\\MyProjects\\API-Demo\\Services\\Services\\Services.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z16zwUxTjMpmo29Y6uOqQ0BAYqJ+/dMZaREH9j+jAkYewTPYry3xcowv2MjN9N2oQYYXGFKzhT2d+iYWe4kYDw==",
+  "dgSpecHash": "qxLshYuizuaecmvx4ElwbOhjf0s+m+1hCorlAPKLHvYxVMJLzIefPuzVSxjrR+oICx1IhQeyyw0FPWZwYWcnLQ==",
   "success": true,
-  "projectFilePath": "E:\\Programing\\CFL ERP\\Demo\\API\\API\\API.csproj",
+  "projectFilePath": "E:\\Programing\\MyProjects\\API-Demo\\API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammad Hammas Khan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Muhammad Hammas Khan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
